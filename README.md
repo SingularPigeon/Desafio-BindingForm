@@ -11,5 +11,5 @@ directivas para el llenado dinámico de un formulario que crea una tarjeta de cr
 
 ### Autores
 
-- **Desarolladora:[Paloma Rivera](https://github.com/**SingularPigeon)**
+- **Desarolladora:[Paloma Rivera](https://github.com/SingularPigeon)**
 - **Diseño: [Bootcamp Desafío Latam](desafiolatam.com)**
