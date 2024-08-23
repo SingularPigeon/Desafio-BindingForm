@@ -1,7 +1,7 @@
 # Desafio-bindingForm
 
-Aplicación de conocimientos del data binding en Vue Js a través de
-las directivas para el llenado dinámico de un formulario para la creación de una tarjeta de crédito.
+Aplicación de conocimientos de data binding en Vue Js a través de
+directivas para el llenado dinámico de un formulario que crea una tarjeta de crédito.
 
 ### Tecnologías utilizadas
 
